@@ -1,4 +1,9 @@
 """
+## 👨‍💻 Author
+
+**Bisnu Ray**
+
+- [GitHub](https://github.com/bisnuray)
 Author: Abir XD
 https://t.me/abir_xd_bio
 """
